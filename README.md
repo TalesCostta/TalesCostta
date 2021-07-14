@@ -3,14 +3,12 @@
 </h1>
 
 ### Hi there 👋
-## Olá 👋
 
 <!--
 **gb8may/gb8may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 A little about me:
-Um pouco sobre mim:
 
 -  📍  Caldas Novas - GO, **Brazil**.
 - 🔭  I’m currently working with **Web** and **Java**.
