@@ -21,7 +21,7 @@ A little about me:
 
 ### 📈 Stats 
  
-[![TalesCostta github stats](https://github-readme-stats.vercel.app/api?username=talescosttay&theme=cobalt&show_icons=true)](https://github.com/talescostta/github-readme-stats)
+[![TalesCostta github stats](https://github-readme-stats.vercel.app/api?username=talescostta&theme=cobalt&show_icons=true)](https://github.com/talescostta/github-readme-stats)
 
 ### 💡  Languages 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talescostta&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
