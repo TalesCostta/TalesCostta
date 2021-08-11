@@ -11,7 +11,7 @@
 A little about me:
 
 -  📍  Caldas Novas - GO, **Brazil**.
-- 🔭  I’m currently working with **Web** and **Java**.
+- 🔭  I’m currently working in **Cronapp Academy**.
 - 🌱  I’m currently learning everything related to **React** and **Java skills**.
 - 📚  Self-taught
 - ⚡  Fun fact: Playing games is one of my hobbies.
