@@ -10,7 +10,7 @@
 
 A little about me:
 
--  📍  Caldas Novas - GO, **Brazil**.
+-  📍   Caldas Novas - GO, **Brazil**.
 - 🔭  I’m currently working in **Cronapp Academy**.
 - 🌱  I’m currently learning everything related to **React** and **Java skills**.
 - 📚  Self-taught
