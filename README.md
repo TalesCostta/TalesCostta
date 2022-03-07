@@ -28,4 +28,6 @@ A little about me:
 
 <hr>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talescostta/)](https://www.linkedin.com/in/talescostta/)
