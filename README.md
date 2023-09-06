@@ -12,7 +12,7 @@ A little about me:
 
 -  📍   Caldas Novas - GO, **Brazil**.
 - 🔭  I’m currently working in **Techne Engenharia e Sistemas LTDA**.
-- 🌱  I’m currently learning everything related to **React** and **JavaScript skills**.
+- 🌱  I’m currently learning everything related to **React** and **Node.js skills**.
 - 📚  Self-taught
 - ⚡  Fun fact: Playing games is one of my hobbies.
 
