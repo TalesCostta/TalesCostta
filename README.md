@@ -21,12 +21,12 @@ Engenheiro de Software focado em backend/full stack, integrações e automação
 <p>
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=TalesCostta&show_icons=true&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=talescostta&show_icons=true&theme=transparent&hide_border=true"
     alt="GitHub stats de TalesCostta"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalesCostta&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=talescostta&layout=compact&theme=transparent&hide_border=true"
     alt="Top linguagens de TalesCostta"
   />
 </p>
@@ -34,7 +34,7 @@ Engenheiro de Software focado em backend/full stack, integrações e automação
 <p>
   <img
     height="170"
-    src="https://streak-stats.demolab.com?user=TalesCostta&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com?user=talescostta&theme=transparent&hide_border=true"
     alt="GitHub streak de TalesCostta"
   />
 </p>
