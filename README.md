@@ -1,6 +1,6 @@
 # Tales Costa
 
-Engenheiro de Software Sênior.
+Engenheiro de Software.
 
 ## Sobre mim
 - Backend e Full Stack com foco em entrega, simplicidade e escala.
