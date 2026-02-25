@@ -21,9 +21,7 @@ Engenheiro de Software Sênior.
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=talescostta&show_icons=true&theme=transparent&hide_border=true)](https://github.com/talescostta)
-[![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=talescostta&layout=compact&theme=transparent&hide_border=true)](https://github.com/talescostta)
-[![GitHub streak](https://streak-stats.demolab.com?user=talescostta&theme=transparent&hide_border=true)](https://github.com/talescostta)
+![GitHub Streak](https://streak-stats.demolab.com?user=talescostta&theme=transparent&hide_border=true)
 
 ## Contribuições
 <picture>
