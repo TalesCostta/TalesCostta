@@ -1,31 +1,50 @@
-<h1 align="center"> 
-	✅ Welcome to my GitHub 🚀
-</h1>
+# Tales Costa
 
-### Hi there 👋
+Engenheiro de Software focado em backend/full stack, integrações e automação com IA.
 
-<!--
-**gb8may/gb8may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Sobre mim
+- Atuo com desenvolvimento backend e full stack, priorizando código limpo e entregas consistentes.
+- Trabalho com integrações entre APIs, serviços e fluxos de negócio.
+- Construo automações e soluções com IA para ganho de produtividade e escala.
+- Tenho foco em arquitetura pragmática, observabilidade e manutenção simples.
 
-A little about me:
+## Stack & Ferramentas
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
--  📍   Caldas Novas - GO, **Brazil**.
-- 🔭  I’m currently working in **Techne Engenharia e Sistemas LTDA**.
-- 🌱  I’m currently learning everything related to **React** and **Node.js skills**.
-- 📚  Self-taught
-- ⚡  Fun fact: Playing games is one of my hobbies.
+## GitHub Stats
+<p>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=TalesCostta&show_icons=true&theme=transparent&hide_border=true"
+    alt="GitHub stats de TalesCostta"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalesCostta&layout=compact&theme=transparent&hide_border=true"
+    alt="Top linguagens de TalesCostta"
+  />
+</p>
 
-### ⚡ Skills:
-- ![DevOps](https://img.shields.io/badge/-DevOps-yellowgreen) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF) ![Monitoring](https://img.shields.io/badge/-Monitoring-red) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
+<p>
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=TalesCostta&theme=transparent&hide_border=true"
+    alt="GitHub streak de TalesCostta"
+  />
+</p>
 
-### 📈 Stats 
- 
-[![TalesCostta github stats](https://github-readme-stats.vercel.app/api?username=talescostta&theme=cobalt&show_icons=true)](https://github.com/talescostta/github-readme-stats)
+## Snake (contribuições)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TalesCostta/TalesCostta/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TalesCostta/TalesCostta/output/snake.svg" />
+  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/TalesCostta/TalesCostta/output/snake.svg" />
+</picture>
 
-### 💡  Languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talescostta&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
-
-<hr>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talescostta/)](https://www.linkedin.com/in/talescostta/)
+## Contato
+- LinkedIn: [LINKEDIN_URL](https://www.linkedin.com/in/talescostta/)
