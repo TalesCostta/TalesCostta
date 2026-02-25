@@ -21,14 +21,21 @@ Engenheiro de Software Sênior.
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=talescostta&theme=transparent&hide_border=true)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=talescostta&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ## Contribuições
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talescostta/talescostta/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talescostta/talescostta/output/snake.svg" />
-  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/talescostta/talescostta/output/snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talescostta/talescostta/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talescostta/talescostta/output/snake.svg" />
+    <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/talescostta/talescostta/output/snake.svg" />
+  </picture>
+</p>
 
 ## Contato
 - LinkedIn: [TalesCostta](https://www.linkedin.com/in/talescostta/)
