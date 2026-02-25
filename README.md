@@ -18,33 +18,16 @@ Engenheiro de Software focado em backend/full stack, integrações e automação
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## GitHub Stats
-<p>
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=talescostta&show_icons=true&theme=transparent&hide_border=true"
-    alt="GitHub stats de TalesCostta"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=talescostta&layout=compact&theme=transparent&hide_border=true"
-    alt="Top linguagens de TalesCostta"
-  />
-</p>
-
-<p>
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=talescostta&theme=transparent&hide_border=true"
-    alt="GitHub streak de TalesCostta"
-  />
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=talescostta&show_icons=true&theme=transparent&hide_border=true)](https://github.com/talescostta)
+[![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=talescostta&layout=compact&theme=transparent&hide_border=true)](https://github.com/talescostta)
+[![GitHub streak](https://streak-stats.demolab.com?user=talescostta&theme=transparent&hide_border=true)](https://github.com/talescostta)
 
 ## Snake (contribuições)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TalesCostta/TalesCostta/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TalesCostta/TalesCostta/output/snake.svg" />
-  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/TalesCostta/TalesCostta/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talescostta/talescostta/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talescostta/talescostta/output/snake.svg" />
+  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/talescostta/talescostta/output/snake.svg" />
 </picture>
 
 ## Contato
-- LinkedIn: [LINKEDIN_URL](https://www.linkedin.com/in/talescostta/)
+- LinkedIn: [TalesCostta](https://www.linkedin.com/in/talescostta/)
